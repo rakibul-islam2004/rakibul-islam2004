@@ -77,9 +77,20 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <div>
-    <span>📞 Phone: +8801408061037</span>
+    <span id="phone-number">📞 Phone: +8801408061037</span>
+    <button onclick="copyPhoneNumber()">📋 Copy Phone Number</button>
   </div>
 </div>
+
+<script>
+  function copyPhoneNumber() {
+    const phoneNumber = document.getElementById("phone-number").innerText.replace("📞 Phone: ", "");
+    navigator.clipboard.writeText(phoneNumber).then(() => {
+      alert("Phone number copied!");
+    });
+  }
+</script>
+
 
 
 
