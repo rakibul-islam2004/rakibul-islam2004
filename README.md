@@ -50,11 +50,13 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
+
 ## 📊 GitHub Stats  
 <div class="stats-container" style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://streak-stats.demolab.com/?user=rakibul-islam2004&theme=react" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibul-islam2004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" style="width: 320px; height: auto;" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibul-islam2004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" style="width: 320px; height: auto;" alt="languages graph" />
 </div>
+
 
 
 ###
