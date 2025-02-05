@@ -67,5 +67,9 @@
   <a href="https://github.com/rakibul-islam2004" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
+  <a href="mailto:mdrakibulislamandrokib@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
+
 
